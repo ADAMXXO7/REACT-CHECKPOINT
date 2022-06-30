@@ -1,0 +1,10 @@
+.app{
+  background-color: rgb(223, 223, 5);
+  height: 100%;
+}
+.img{
+  width: 100%;
+  display: flex;
+  justify-items: center;
+  
+}
